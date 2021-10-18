@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Flow',
+      title: 'Encontra Littoral',
       theme: ThemeData(
         fontFamily: 'Product Sans',
         scaffoldBackgroundColor: Colors.grey[200],
